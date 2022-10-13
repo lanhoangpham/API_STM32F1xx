@@ -1,0 +1,9 @@
+stm32f103xx_gpio_driver.c:25:6:gpio_periClockControl	16	static
+stm32f103xx_gpio_driver.c:119:6:gpio_init_handle	24	static
+stm32f103xx_gpio_driver.c:189:6:gpio_deInit	16	static
+stm32f103xx_gpio_driver.c:224:9:gpio_readFromInputPin	24	static
+stm32f103xx_gpio_driver.c:246:10:gpio_readFromInputPort	24	static
+stm32f103xx_gpio_driver.c:274:6:gpio_writeToOutputPin	16	static
+stm32f103xx_gpio_driver.c:302:6:gpio_writeToOutputPort	16	static
+stm32f103xx_gpio_driver.c:319:6:gpio_toggleOutputPin	16	static
+stm32f103xx_gpio_driver.c:357:6:delay	16	static
